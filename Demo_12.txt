@@ -1,2 +1,0 @@
-1. This is the first file created and want to push to master.
-2. Lets practice for more
